@@ -1,5 +1,8 @@
 _repo: The-spokesman-s-secretary-b-Being-the-letters-of-Mame-to-Mom_71030
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71030-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/88
     wikipedia: https://en.wikipedia.org/wiki/Upton_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71030#The-spokesman-s-secretary-b-Being-the-letters-of-Mame-to-Mom
 gutenberg_issued: '2023-06-23'
 identifiers:
   gutenberg: '71030'
